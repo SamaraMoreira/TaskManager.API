@@ -1,0 +1,12 @@
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.deps.json
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.csproj.AssemblyReference.cache
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\refint\TaskManager.Domain.dll
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\samar_ca5ad0g\Desktop\TaskManager.API\TaskManager.Domain\obj\Debug\net8.0\ref\TaskManager.Domain.dll
