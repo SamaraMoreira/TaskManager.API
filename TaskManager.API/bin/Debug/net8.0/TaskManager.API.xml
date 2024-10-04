@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:TaskManager.API.Controllers.TaskController.Get">
+            <summary>
+            Metodo para obter todos os dados da Task
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TaskController.GetPorId(System.Int32)">
+            <summary>
+             Metodo para obter todos os dados da Task por Id
+            </summary>
+            <param name="id"> Parametro que identifica a Task</param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TaskController.Post(TaskManager.Application.Dtos.TaskDto)">
+            <summary>
+            Metodo para salvar os dados da Task
+            </summary>
+            <param name="entity"> Modelo de dados para salvar Task</param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TaskController.Put(System.Int32,TaskManager.Application.Dtos.TaskDto)">
+            <summary>
+            Metodo para atualizar os dados da Task 
+            </summary>
+            <param name="entity"> Modelo de dados para atualizar Task</param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TaskController.Delete(System.Int32)">
+            <summary>
+             Metodo para deletar os dados da Task
+            </summary>
+            <param name="id"> Identificador do Task</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

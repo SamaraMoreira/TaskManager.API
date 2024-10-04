@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.Design": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
           "Oracle.EntityFrameworkCore": "8.23.60",
           "Swashbuckle.AspNetCore": "6.4.0",
